@@ -1,2 +1,2 @@
 console.log('change');
-console.log('stay Hard');
+console.log('stay fuckin Hard');
